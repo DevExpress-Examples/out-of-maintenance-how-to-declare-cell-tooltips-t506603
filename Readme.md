@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXSample/MainWindow.xaml))
+* [ViewModel.cs](./CS/DXSample/ViewModel.cs) (VB: [ViewModel.vb](./VB/DXSample/ViewModel.vb))
+<!-- default file list end -->
 # How to declare cell tooltips
 
 
