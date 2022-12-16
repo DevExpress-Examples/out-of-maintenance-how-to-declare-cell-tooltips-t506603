@@ -1,19 +1,19 @@
-﻿Imports System
+Imports System
 Imports System.Globalization
-Imports System.Linq
 Imports System.Windows.Data
 Imports System.Windows.Markup
 Imports DevExpress.Xpf.Core
 
 Namespace DXSample
+
     ''' <summary>
     ''' Interaction logic for MainWindow.xaml
     ''' </summary>
-    Partial Public Class MainWindow
+    Public Partial Class MainWindow
         Inherits DXWindow
 
         Public Sub New()
-            InitializeComponent()
+            Me.InitializeComponent()
         End Sub
     End Class
 
